@@ -2,10 +2,12 @@
 ping measuring program
 
 Libraries are needed to work
-
+ 
+ 
 pip install psutil pythonping
-
-
+ 
+ 
+ 
 available commands
 
 white
