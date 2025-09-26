@@ -12,7 +12,7 @@ available commands
 
 white
 
-back
+black
 
 ping
 
