@@ -1,14 +1,14 @@
 # check-your-ping
 ping measuring program
 
-Libraries are needed to work
+> [!WARNING]
+> Libraries are needed to work
+> 
+> 
+>pip install psutil pythonping
+
  
- 
-pip install psutil pythonping
- 
- 
- 
-available commands
+# available commands
 
 white
 
