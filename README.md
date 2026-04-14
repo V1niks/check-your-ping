@@ -10,16 +10,17 @@ ping measuring program
  
 # available commands
 
-white
-
-black
-
-ping
-
-ping -10
-
-sm - (from 1 to 100)
-
-exit
+> [!IMPORTANT]
+> white
+>
+>black
+>
+>ping
+>
+>ping -10
+>
+>sm - (from 1 to 100)
+>
+>exit
 
 
