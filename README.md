@@ -6,8 +6,8 @@ ping measuring program
 > 
 > 
 >pip install psutil pythonping
-
  
+  
 # available commands
 
 > [!IMPORTANT]
